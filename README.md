@@ -26,7 +26,7 @@ Inversal jump is going to start from the center of the earth, you are going to h
 This README.md document is subject to change. this document will never stay "static"
 
 Company name: Inversal Jump Studios
-Owner: CyberNight77
-Coowner: choice21
-Licence: MIT
-Legal Email: storageusmanau@gmail.com
+    Owner: CyberNight77
+        Coowner: choice21
+            Licence: MIT
+                Legal Email: storageusmanau@gmail.com
