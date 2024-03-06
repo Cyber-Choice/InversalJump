@@ -1,11 +1,13 @@
 # InversalJump
 
+!!!Importent!!! We currently plan to use Unreal for future developers but currently we have Hardcoded and use SMFL.NET
+
 Created by CyberNight77 & Choice21
 THIS SOFTWARE IS LICENCED UNDER MIT LICENCE
 WE DO NOT ALLOW THIS SOFTWARE TO BE COPIED OR DISTRIBUTED IN ANY WAY
 this branch is for modders to share key components of our game so you can mod it.
 Since this is a Paid game we will not be sharing key game files. If you need them please contact our legal department vai discord or email.
-Discord: choice21 Email:storageusmanau@gmail.com
+Discord: choice21 Email:TimelessStudios@gmail.com
 These credantials are subject to change at any time. Please if you need to contact us check this to make sure you contact the right company.
 
 People who helped with the project: 
@@ -29,4 +31,4 @@ Company name: Inversal Jump Studios
     Owner: CyberNight77
         Coowner: choice21
             Licence: MIT
-                Legal Email: storageusmanau@gmail.com
+                Legal Email: TimelessLegal@gmail.com
