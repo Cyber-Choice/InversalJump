@@ -1,3 +1,16 @@
+/platformerGame/bin
+/platformerGame/obj
+*.dll
+*.lib
+*.config
+*.sln
+*.csproj
+/.vs
+*VC.db
+*.opendb
+/platformerGame/UNUSED
+*.json
+
 # Compiled class file
 *.class
 
